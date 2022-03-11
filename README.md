@@ -1,3 +1,3 @@
 # ancient_DNA_GAN
 
-Репозиторий генеративно-состязательной нейронной сети (GAN) для симуляции ошибки, возникающей при секвенировании древней ДНК.
+A generative adversarial neural network (GAN) repository to simulate the error resulting from ancient DNA sequencing.
